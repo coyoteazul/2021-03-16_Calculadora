@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sumador
 {
-    public class Sumador
+    public class Sum
     {
         public static double sum_ (double var1, double var2)
         {

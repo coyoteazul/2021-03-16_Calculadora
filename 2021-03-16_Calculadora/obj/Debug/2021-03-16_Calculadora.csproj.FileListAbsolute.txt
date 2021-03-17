@@ -10,3 +10,5 @@ D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\su
 D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\obj\Debug\2021-03-16_Calculadora.csproj.CopyComplete
 D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\obj\Debug\2021-03-16_Calculadora.exe
 D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\obj\Debug\2021-03-16_Calculadora.pdb
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\Validadores.dll
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\Validadores.pdb

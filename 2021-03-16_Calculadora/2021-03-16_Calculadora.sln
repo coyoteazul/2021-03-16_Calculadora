@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum", "..\sum\sum.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "product", "..\product\product.csproj", "{585D9395-8963-4563-8F5A-F111D8441E38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validadores", "..\Validadores\Validadores.csproj", "{42A09B0E-3E6F-4063-8522-73E1B50DE519}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{585D9395-8963-4563-8F5A-F111D8441E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{585D9395-8963-4563-8F5A-F111D8441E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{585D9395-8963-4563-8F5A-F111D8441E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A09B0E-3E6F-4063-8522-73E1B50DE519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A09B0E-3E6F-4063-8522-73E1B50DE519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A09B0E-3E6F-4063-8522-73E1B50DE519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A09B0E-3E6F-4063-8522-73E1B50DE519}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

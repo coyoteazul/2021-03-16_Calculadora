@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Product
 {
-    public class Product
+    public class Prod
     {
         public static double product(double var1, double var2)
         {

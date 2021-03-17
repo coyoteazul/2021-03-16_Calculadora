@@ -1,0 +1,6 @@
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\Validadores\bin\Debug\Validadores.dll
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\Validadores\bin\Debug\Validadores.pdb
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\Validadores\obj\Debug\Validadores.csprojAssemblyReference.cache
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\Validadores\obj\Debug\Validadores.csproj.CoreCompileInputs.cache
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\Validadores\obj\Debug\Validadores.dll
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\Validadores\obj\Debug\Validadores.pdb

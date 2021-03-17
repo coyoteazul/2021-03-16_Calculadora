@@ -1,0 +1,12 @@
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\obj\Debug\2021-03-16_Calculadora.csprojAssemblyReference.cache
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\obj\Debug\2021-03-16_Calculadora.csproj.CoreCompileInputs.cache
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\2021-03-16_Calculadora.exe.config
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\2021-03-16_Calculadora.exe
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\2021-03-16_Calculadora.pdb
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\product.dll
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\sum.dll
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\product.pdb
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\bin\Debug\sum.pdb
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\obj\Debug\2021-03-16_Calculadora.csproj.CopyComplete
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\obj\Debug\2021-03-16_Calculadora.exe
+D:\Github\CAI-2021-1C\2021-03-16_Calculadora\2021-03-16_Calculadora\obj\Debug\2021-03-16_Calculadora.pdb
